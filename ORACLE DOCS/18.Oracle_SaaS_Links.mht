@@ -1,0 +1,63 @@
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html data-page="2"
+        data-canvas="1"
+        data-site="/personal/samirkumar_jha_lntinfotech_com"
+        data-list="19:meeting_NjQyZTg1OTUtNDlkZi00MDI4LTk5MTAtNzMzNjQ2NjY1ODdi@thread.v2_wiki"
+        data-tabId="com.microsoft.teamspace.tab.wiki"
+        data-slug="19:meeting_NjQyZTg1OTUtNDlkZi00MDI4LTk5MTAtNzMzNjQ2NjY1ODdi@thread.v2"
+        data-threadId="undefined"<body><h3 class="wiki-mht-note">This page is automatically updated from the Wiki in Microsoft Teams - any changes made here will be overwritten. To edit this page, open it in Microsoft Teams.</h3>
+<h1 id="wiki-mht-page-title-2">SAAS Tech Team Connect</h1>
+<h3 id="wiki-mht-section-title-3">BI Publisher</h3>
+<p id="wiki-mht-section-content-3"><div class="copy-paste-block" itemprop="copy-paste-block"><span style="font-size:14px;">Please refer following best practices document while creating BIP reports, review the SQL query and modify to resolve the issue.</span><br style="font-size:14px;" />
+<br style="font-size:14px;" />
+<br style="font-size:14px;" />
+<span style="font-size:14px;">Oracle Fusion BI Publisher: BI Publisher Memory Guard Settings On SaaS( </span><a href="https://support.oracle.com/epmos/faces/DocumentDisplay?parent=SrDetailText&amp;sourceId=3-31519711271&amp;id=2199494.1" rel="noreferrer noopener" style="font-size:14px;" target="_blank" title="https://support.oracle.com/epmos/faces/documentdisplay?parent=srdetailtext&amp;sourceid=3-31519711271&amp;id=2199494.1">Doc ID 2199494.1</a><span style="font-size:14px;"> )</span><br style="font-size:14px;" />
+<span style="font-size:14px;">Oracle Business Intelligence Publisher Performance Recommendations for Fusion Cloud Applications ( </span><a href="https://support.oracle.com/epmos/faces/DocumentDisplay?parent=SrDetailText&amp;sourceId=3-31519711271&amp;id=2800118.1" rel="noreferrer noopener" style="font-size:14px;" target="_blank" title="https://support.oracle.com/epmos/faces/documentdisplay?parent=srdetailtext&amp;sourceid=3-31519711271&amp;id=2800118.1">Doc ID 2800118.1</a><span style="font-size:14px;"> )</span><br style="font-size:14px;" />
+<span style="font-size:14px;">Fusion Applications (SAAS) BI Publisher Custom Report Performance and Availability Reference ( </span><a href="https://support.oracle.com/epmos/faces/DocumentDisplay?parent=SrDetailText&amp;sourceId=3-31519711271&amp;id=2614917.1" rel="noreferrer noopener" style="font-size:14px;" target="_blank" title="https://support.oracle.com/epmos/faces/documentdisplay?parent=srdetailtext&amp;sourceid=3-31519711271&amp;id=2614917.1">Doc ID 2614917.1</a><span style="font-size:14px;"> )</span></div>
+</p>
+<h3 id="wiki-mht-section-title-5">Image - BI Publisher</h3>
+<p id="wiki-mht-section-content-5"><div itemprop="copy-paste-block">
+<p><span style="font-size:11pt;"><span style="font-family:Calibri,sans-serif;">Unable To AttachmentsUser Roles To User (Doc ID 2525387.1)</span></span></p>
+
+<p><span style="font-size:11pt;"><span style="font-family:Calibri,sans-serif;">How To Get Roles Required To Download Attached Files In BIP Report (Doc ID 2284270.1)</span></span></p>
+
+<p><span style="font-size:11pt;"><span style="font-family:Calibri,sans-serif;">What Fusion Apps Role Needs to be Added to the User in Order to View the Checked in Attachments in UCM? (Doc ID 2242181.1)</span></span></p>
+
+<p><span style="font-size:11pt;"><span style="font-family:Calibri,sans-serif;">FAPPS Insufficient Privileges Error - Unable to Download 'UCMFA062116'. User Does Not Have Sufficient Privileges (Doc ID 2183231.1)</span></span></p>
+
+<p><span style="font-size:11pt;"><span style="font-family:Calibri,sans-serif;"></span></span></p>
+</div>
+</p>
+<h3 id="wiki-mht-section-title-6">OTBI Notes</h3>
+<p id="wiki-mht-section-content-6"><ol>
+	<li>Import Oracle Fusion Data Extensions for Transactional Business Intelligence --&gt; <a href="https://lntinfotech-my.sharepoint.com/:b:/p/samirkumar_jha/ETKhOCCQARRBj5FuhbuiDggB-TeTSkq4Ic88VBZ76QIazg" rel="noreferrer noopener" target="_blank" title="https://lntinfotech-my.sharepoint.com/:b:/p/samirkumar_jha/etkhoccqarrbj5fuhbuidggb-tetskq4ic88vbz76qiazg">https://lntinfotech-my.sharepoint.com/:b:/p/samirkumar_jha/ETKhOCCQARRBj5FuhbuiDggB-TeTSkq4Ic88VBZ76QIazg</a></li>
+	<li> </li>
+</ol>
+</p>
+<h3 id="wiki-mht-section-title-7">How to copy BI Publisher XDOZ/XDMZ Files From One Environment to another Environment</h3>
+<p id="wiki-mht-section-content-7"><div class="copy-paste-block" itemprop="copy-paste-block"><span style="font-size:14.3px;">Fusion BI Publisher : How to copy BI Publisher XDOZ/XDMZ Files From One Environment to another Environment (Doc ID 2117542.1)</span></div>
+</p>
+<h3 id="wiki-mht-section-title-8">How to query Trading Partner Name, EFF Attribute Name from database? (Doc ID 2307648.1)	To BottomTo Bottom</h3>
+<p id="wiki-mht-section-content-8"></p>
+<h3 id="wiki-mht-section-title-9">FA: SCM: OM: How to: Access Sales Order Attachments (Doc ID 2260464.1)</h3>
+<p id="wiki-mht-section-content-9"></p>
+<h3 id="wiki-mht-section-title-10">How to bulk import Lookup Types and Lookup Codes using File Based Loader ? (Doc ID 2215378.1)</h3>
+<p id="wiki-mht-section-content-10"></p>
+<h3 id="wiki-mht-section-title-11">One Time Address Location Not Appearing On Purchase Order PDF (Doc ID 2020163.1)</h3>
+<p id="wiki-mht-section-content-11"></p>
+<h3 id="wiki-mht-section-title-12">Display or hide columns depending on the parameter selected (Doc ID 2539753.1)</h3>
+<p id="wiki-mht-section-content-12"></p>
+<h3 id="wiki-mht-section-title-13">FA: SCM: OM: Why are Changes Made to a Revised Order Header not Applied to the Order Lines ? (Doc ID 2425621.1)</h3>
+<p id="wiki-mht-section-content-13"></p>
+<h3 id="wiki-mht-section-title-15">FA: SCM: OM: SQL Query to Obtain Sales Person information for an Order (Doc ID 2589854.1)</h3>
+<p id="wiki-mht-section-content-15"></p>
+<h3 id="wiki-mht-section-title-14">-&gt;Ship Method -  FA: SCM: OM: SQL QUERY: Query and Derive Ship Method Including Carrier, Mode of Transport and Service Level Components (Doc ID 2251504.1) FA: SCM: OM: SQL Query to Obtain Sales Person information for an Order (Doc ID 2589854.1)</h3>
+<p id="wiki-mht-section-content-14"></p>
+<h3 id="wiki-mht-section-title-16">Trade Operation ID -What Is the Query to Fetch the Trade Operation Details? (Doc ID 2594570.1)</h3>
+<p id="wiki-mht-section-content-16"></p>
+<h3 id="wiki-mht-section-title-17">Application Composer - Query to Know the Table Allocated to Each Object (Doc ID 2610665.1)</h3>
+<p id="wiki-mht-section-content-17"></p>
+</body></html>
